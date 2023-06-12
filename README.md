@@ -1,7 +1,7 @@
 # :tent:  YelpCamp 
 
 ## 🗒️  Descriptions 
-This is a appplications that allows campers to sign up, log in to view campgrounds. Users can also upload the campgrounds they have stayed at and make reviews on them.
+This is an appplication that allows campers to sign up, log in to view campgrounds. Users can also upload campgrounds they have stayed at and share their experiences through making reviews.
 Live App: 
 
 ##  Frontend

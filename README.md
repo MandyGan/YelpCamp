@@ -1,6 +1,6 @@
 # :tent:  YelpCamp 
 
-## 🗒️ Descriptions 
+## 🗒️  Descriptions 
 
 Live App: 
 

@@ -37,10 +37,13 @@ Mongoose
 - [Bootstrap](https://github.com/twbs/bootstrap) as the driving CSS framework to create visually appealing user experiences.
 - Render to host the complete application
 
-##  Screenshots
+## 📸 Screenshots
 
-![HomePage](
-
+![HomePage](https://github.com/MandyGan/YelpCamp/blob/main/screenshots/HomePage.png?raw=true)
+![viewCamp](https://github.com/MandyGan/YelpCamp/blob/main/screenshots/ViewCampgrounds.png?raw=true)
+![RegisterPage](https://github.com/MandyGan/YelpCamp/blob/main/screenshots/Register.png?raw=true)
+![LoginPage](https://github.com/MandyGan/YelpCamp/blob/main/screenshots/Login.png?raw=true)
+![addCamp](https://github.com/MandyGan/YelpCamp/blob/main/screenshots/addCampgrounds.png?raw=true)
 ## 📣 Acknowledgements
 
  - This skeleton of this project is a cumulation of The Web Developer Bootcamp on Udemy by Colt Steele
